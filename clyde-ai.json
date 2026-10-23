@@ -1,0 +1,9 @@
+{
+    "owner": {
+        "username": "your-github-username"
+    },
+    "proxied": true,
+    "records": {
+        "CNAME": "https://clyde-ai-xpdr.vercel.app/"
+    }
+}
