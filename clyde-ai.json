@@ -1,9 +1,0 @@
-{
-    "owner": {
-        "username": "PyMite6941"
-    },
-    "proxied": true,
-    "records": {
-        "CNAME": "https://clyde-ai-xpdr.vercel.app/"
-    }
-}
