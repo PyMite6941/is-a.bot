@@ -4,6 +4,6 @@
     },
     "proxied": true,
     "records": {
-        "CNAME": "https://clyde-ai-xpdr.vercel.app/"
+        "CNAME": "clyde-ai-xpdr.vercel.app"
     }
 }
