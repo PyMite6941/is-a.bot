@@ -1,8 +1,8 @@
 {
     "owner": {
-        "username": "PyMite6941"
+        "username": "PyMite6941",
+        "email": "greshamd27@gmail.com"
     },
-    "proxied": true,
     "records": {
         "CNAME": "clyde-ai-xpdr.vercel.app"
     }
